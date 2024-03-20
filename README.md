@@ -24,3 +24,7 @@ Download Modelnet110 and Modelnet40  from https://modelnet.cs.princeton.edu/#
 ShapenetAccount also avaiable to get data
 Stanford SD3DIS
 https://cvg-data.inf.ethz.ch/s3dis/
+
+
+Semantic Seg Github Link:
+https://github.com/itberrios/3D/blob/main/point_net/pointnet_seg.ipynb
